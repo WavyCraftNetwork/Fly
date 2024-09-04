@@ -1,0 +1,22 @@
+# Customize the messages and titles shown when flying and landing
+fly_already_on: "§bFly§r is already §eenabled§r."
+
+fly_already_off: "§bFly§r is already §edisabled§r."
+
+fly_message_on: "You are now §bflying§r!"
+
+fly_message_off: "You have §blanded§r!"
+
+fly_title_on: "§bFly Mode Enabled"
+
+fly_subtitle_on: "Enjoy the skies"
+
+fly_title_off: "§bFly Mode Disabled"
+
+fly_subtitle_off: "Back to the ground"
+
+no_permission: "You dont have permission to use this command"
+
+usage: "/fly [on|off]"
+
+player_only: "Only players can run this command!"

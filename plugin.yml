@@ -1,0 +1,9 @@
+name: Fly
+version: 1.0.0
+author: Terpz710
+api: 5.0.0
+main: wavycraft\fly\Fly
+
+permissions:
+  fly.cmd:
+    default: op
